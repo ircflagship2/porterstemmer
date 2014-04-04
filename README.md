@@ -1,0 +1,4 @@
+porterstemmer
+=============
+
+Command Line Porterstemmer
